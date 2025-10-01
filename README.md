@@ -1,8 +1,8 @@
 # 💻 Ejecución de Aplicaciones Java Empaquetadas (.JAR)
 
-[cite_start]Este repositorio contiene la demostración de cómo ejecutar aplicaciones Java empaquetadas en archivos **.jar**, explorando tanto la **ejecución individual** como la **ejecución encadenada (pipelining)** a través de la línea de comandos[cite: 15].
+Este repositorio contiene la demostración de cómo ejecutar aplicaciones Java empaquetadas en archivos **.jar**, explorando tanto la **ejecución individual** como la **ejecución encadenada (pipelining)** a través de la línea de comandos[cite: 15].
 
-[cite_start]El objetivo de este trabajo es afianzar los conocimientos sobre el funcionamiento de programas en Java y el uso de comandos básicos en entornos de consola[cite: 17]. [cite_start]Se busca comprender cómo redirigir la salida de una aplicación como entrada de otra, creando un flujo de trabajo automatizado[cite: 16, 42].
+El objetivo de este trabajo es afianzar los conocimientos sobre el funcionamiento de programas en Java y el uso de comandos básicos en entornos de consola[cite: 17]. [cite_start]Se busca comprender cómo redirigir la salida de una aplicación como entrada de otra, creando un flujo de trabajo automatizado[cite: 16, 42].
 
 ---
 
@@ -23,3 +23,4 @@ Para ejecutar cada programa de forma individual, se utiliza el comando estándar
 
 ```bash
 java -jar nombreAplicacion.jar
+
