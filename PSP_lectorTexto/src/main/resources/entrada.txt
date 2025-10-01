@@ -1,0 +1,4 @@
+Tres palabras
+Esta linea tiene mas de veinte caracteres y sera filtrada
+Corta
+Una frase muy muy larga para que pase el filtro de veinte caracteres
