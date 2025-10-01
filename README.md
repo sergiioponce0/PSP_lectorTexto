@@ -19,7 +19,7 @@ El trabajo se basa en tres aplicaciones Java empaquetadas:
 
 ### 1. Ejecución Individual
 
-[cite_start]Para ejecutar cada programa de forma individual, se utiliza el comando estándar de `java -jar`[cite: 22, 23]. [cite_start]Esto permite tener un control directo sobre cada aplicación.
+Para ejecutar cada programa de forma individual, se utiliza el comando estándar de `java -jar`Esto permite tener un control directo sobre cada aplicación.
 
 ```bash
 java -jar nombreAplicacion.jar
